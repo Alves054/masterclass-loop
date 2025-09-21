@@ -96,7 +96,7 @@ const Features = () => {
             Uma Plataforma, <span className="text-primary">Infinitas Carreiras</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Por apenas R$ 5.000/mês, tenha acesso completo a todos os cursos de todas as áreas. 
+            Por apenas R$ 350/mês, tenha acesso completo a todos os cursos de todas as áreas. 
             Sem limites, sem restrições.
           </p>
         </div>
