@@ -47,7 +47,7 @@ const Pricing = () => {
               
               <div className="space-y-2">
                 <div className="flex items-center justify-center gap-2">
-                  <span className="text-5xl font-bold text-primary">R$ 5.000</span>
+                  <span className="text-5xl font-bold text-primary">R$:350</span>
                   <div className="text-left">
                     <div className="text-muted-foreground text-sm">/mês</div>
                     <div className="text-muted-foreground text-xs">por pessoa</div>
@@ -81,7 +81,7 @@ const Pricing = () => {
                   </div>
                   <div className="space-y-2">
                     <div className="font-medium text-success">✅ Academia Pro:</div>
-                    <div>• R$ 5.000 por TODOS os cursos</div>
+                    <div>• R$:350 por TODOS os cursos</div>
                     <div>• Acesso vitalício enquanto assinante</div>
                     <div>• Suporte 24/7 especializado</div>
                     <div>• Certificados reconhecidos</div>

@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="space-y-4">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
                 Domine <span className="text-primary">Todas as Profissões</span> por apenas{" "}
-                <span className="text-accent font-extrabold">R$ 350j/mês</span>
+                <span className="text-accent font-extrabold">R$ 350/mês</span>
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-xl">
