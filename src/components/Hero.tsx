@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="space-y-4">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
                 Domine <span className="text-primary">Todas as Profissões</span> por apenas{" "}
-                <span className="text-accent font-extrabold">R$ 5.000/mês</span>
+                <span className="text-accent font-extrabold">R$ 350/mês</span>
               </h1>
               
               <p className="text-xl text-muted-foreground leading-relaxed max-w-xl">
@@ -33,7 +33,7 @@ const Hero = () => {
             <div className="flex flex-wrap gap-6 text-sm">
               <div className="flex items-center gap-2">
                 <Users className="h-5 w-5 text-primary" />
-                <span><strong>50.000+</strong> Alunos</span>
+                <span><strong>350+</strong> Alunos</span>
               </div>
               <div className="flex items-center gap-2">
                 <Award className="h-5 w-5 text-primary" />
@@ -48,7 +48,7 @@ const Hero = () => {
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4">
               <Button variant="hero" size="xl" className="group">
-                Começar Agora - R$ 5.000/mês
+                Começar Agora - R$ 350/mês
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Button>
               <Button variant="outline" size="xl">
